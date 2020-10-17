@@ -1,0 +1,4 @@
+.project
+.pydevproject
+__pychache__
+*.pyc
